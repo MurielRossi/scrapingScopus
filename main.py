@@ -1,6 +1,10 @@
 from datetime import datetime
 
 from pybliometrics.scopus import ScopusSearch
+import pandas as pd
+
+import downloader as autdown
+
 
 start = datetime.now().replace(microsecond=0)
 
@@ -20,3 +24,9 @@ for risultato in risultati:
     print(risultato)
 
 row = []
+
+
+autdown.execute("./acceptedInstance.csv")
+autdown.execute("./acceptedInstance1.csv")
+autdown.execute("./acceptedInstance2.csv")
+autdown.execute("./acceptedInstance3.csv")
