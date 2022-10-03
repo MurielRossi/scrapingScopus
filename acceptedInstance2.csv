@@ -1,0 +1,161 @@
+,TITLE,ACCEPTED
+396,Multi-center validation of machine learning model for preoperative prediction of postoperative mortality,YES
+397,Machine learning-based quantitative prediction of drug exposure in drug-drug interactions using drug label information,YES
+398,"Construction of machine learning tools to predict threatened miscarriage in the first trimester based on AEA, progesterone and β-hCG in China: a multicentre, observational, case-control study",YES
+399,Machine learning prediction of postoperative major adverse cardiovascular events in geriatric patients: a prospective cohort study,YES
+400,Ensemble learning using traditional machine learning and deep neural network for diagnosis of Alzheimer's disease,YES
+401,Artificial Intelligence and Cardiovascular Magnetic Resonance Imaging in Myocardial Infarction Patients,YES
+402,Classifying COVID-19 Variants Based on Genetic Sequences Using Deep Learning Models,YES
+403,Deep Learning Prediction Model for Heart Disease for Elderly Patients,YES
+404,Artificial Neural Network Method for Appraising the Nephrotic Disease,YES
+405,Machine learning-based 3D modeling and volumetry of human posterior vitreous cavity of optical coherence tomographic images,YES
+406,Binary dose level classification of tumour microvascular response to radiotherapy using artificial intelligence analysis of optical coherence tomography images,YES
+407,Personalized survival probabilities for SARS-CoV-2 positive patients by explainable machine learning,YES
+408,Identification of key candidate genes for IgA nephropathy using machine learning and statistics based bioinformatics models,YES
+409,Breast cancer patient characterisation and visualisation using deep learning and fisher information networks,YES
+410,Blood glucose prediction based on imagingphotoplethysmography in combination with Machine learning,YES
+411,Microscopic image analysis in breast cancer detection using ensemble deep learning architectures integrated with web of things,YES
+412,Automated Intelligent Hematology Classification System Using Image Processing and Neural Networks,YES
+413,Developing machine learning-based models to predict intrauterine insemination (IUI) success by address modeling challenges in imbalanced data and providing modification solutions for them,YES
+414,Can cognition help predict suicide risk in patients with major depressive disorder? A machine learning study,YES
+415,Opening the black box: interpretable machine learning for predictor finding of metabolic syndrome,YES
+416,Deep learning-based patient re-identification is able to exploit the biometric nature of medical chest X-ray data,YES
+417,A prediction model for worsening diabetic retinopathy after panretinal photocoagulation,YES
+418,A comparison of deep learning U-Net architectures for posterior segment OCT retinal layer segmentation,YES
+419,Integrating Machine Learning and Sensors for the Development of Organ-on-Chip Platforms for Medical Diagnosis,YES
+420,Game Theory-Based Dynamic Weighted Ensemble for Retinal Disease Classification,YES
+421,Breast Cancer Detection from Histology Images Using Deep Feature Selection,YES
+422,Machine learning model from a Spanish cohort for prediction of SARS-COV-2 mortality risk and critical patients,YES
+423,Fusion of fully integrated analog machine learning classifier with electronic medical records for real-time prediction of sepsis onset,YES
+424,Trend clustering from COVID-19 tweets using graphical lasso-guided iterative principal component analysis,YES
+425,"Prediction of metabolic and pre-metabolic syndromes using machine learning models with anthropometric, lifestyle, and biochemical factors from a middle-aged population in Korea",YES
+426,Training and clinical testing of artificial intelligence derived right atrial cardiovascular magnetic resonance measurements,YES
+427,Accurate auto-labeling of chest X-ray images based on quantitative similarity to an explainable AI model,YES
+428,Multi-modality machine learning predicting Parkinson’s disease,YES
+429,Feature extraction from MRI ADC images for brain tumor classification using machine learning techniques,YES
+430,Effective deep learning for oral exfoliative cytology classification,YES
+431,Tasks for artificial intelligence in prostate MRI,YES
+432,Reciprocal perspective as a super learner improves drug-target interaction prediction (MUSDTI),YES
+433,A Review on Proteomic Function Prediction in Pathogenic Bacterial Organism Using Machine Learning,YES
+434,Stacked Gated Recurrent Unit Classifier with CT Images for Liver Cancer Classification,YES
+435,Diabetic Retinopathy Diagnosis Using Interval Neutrosophic Segmentation with Deep Learning Model,YES
+436,A Machine Learning Approach to Predict SEER Cancer,YES
+437,Combining the neural mass model and Hodgkin–Huxley formalism: Neuronal dynamics modelling,YES
+438,Breast cancer classification by a new approach to assessing deep neural network-based uncertainty quantification methods,YES
+439,Identification of immune-related key genes in the peripheral blood of ischaemic stroke patients using a weighted gene coexpression network analysis and machine learning,YES
+440,A benchmark study of deep learning-based multi-omics data fusion methods for cancer,YES
+441,Cancer-Net SCa: tailored deep neural network designs for detection of skin cancer from dermoscopy images,YES
+442,Constrained Fourier estimation of short-term time-series gene expression data reduces noise and improves clustering and gene regulatory network predictions,YES
+443,Influencing Factors and Clustering Characteristics of COVID-19: A Global Analysis,YES
+444,Machine learning-based prediction of relapse in rheumatoid arthritis patients using data on ultrasound examination and blood test,YES
+445,A deep learning approach identifies new ECG features in congenital long QT syndrome,YES
+446,Internal validation and comparison of predictive models to determine success rate of infertility treatments: a retrospective study of 2485 cycles,YES
+447,A Multi-Branch Convolutional Neural Network for Screening and Staging of Diabetic Retinopathy Based on Wide-Field Optical Coherence Tomography Angiography,YES
+448,scSemiAE: a deep model with semi-supervised learning for single-cell transcriptomics,YES
+449,Machine learning-based model for prediction of clinical deterioration in hospitalized patients by COVID 19,YES
+450,A novel approach to predicting the synergy of anti-cancer drug combinations using document-based feature extraction,YES
+451,MFDNN: multi-channel feature deep neural network algorithm to identify COVID19 chest X-ray images,YES
+452,Machine learning for medical imaging: methodological failures and recommendations for the future,YES
+453,Identification of osteoporosis using ensemble deep learning model with panoramic radiographs and clinical covariates,YES
+454,Quantitative digital histopathology and machine learning to predict pathological complete response to chemotherapy in breast cancer patients using pre-treatment tumor biopsies,YES
+455,Deep neural network trained on gigapixel images improves lymph node metastasis detection in clinical settings,YES
+456,Phonemes based detection of parkinson’s disease for telehealth applications,YES
+457,A deep learning-based self-adapting ensemble method for segmentation in gynecological brachytherapy,YES
+458,Diagnostic model based on bioinformatics and machine learning to distinguish Kawasaki disease using multiple datasets,YES
+459,An updated systematic review of radiomics in osteosarcoma: utilizing CLAIM to adapt the increasing trend of deep learning application in radiomics,YES
+460,Controlling gene expression with deep generative design of regulatory DNA,YES
+461,Machine learning-based prediction of fainting during blood donations using donor properties and weather data as features,YES
+462,"Author Correction: A novel AI device for real-time optical characterization of colorectal polyps (npj Digital Medicine, (2022), 5, 1, (84), 10.1038/s41746-022-00633-6)",YES
+463,A multitask deep learning approach for pulmonary embolism detection and identification,YES
+464,Helicobacter pylori (H. pylori) risk factor analysis and prevalence prediction: a machine learning-based approach,YES
+465,Stochastic models of Mendelian and reverse transcriptional inheritance in state-structured cancer populations,YES
+466,Deep learning based on ultrasound images assists breast lesion diagnosis in China: a multicenter diagnostic study,YES
+467,Deep learning-based lesion subtyping and prediction of clinical outcomes in COVID-19 pneumonia using chest CT,YES
+468,An artificial intelligence-based risk prediction model of myocardial infarction,YES
+469,Radiomic Features Based Severity Prediction in Dementia MR Images Using Hybrid SSA-PSO Optimizer and Multi-class SVM Classifier,YES
+470,Testing the applicability and performance of Auto ML for potential applications in diagnostic neuroradiology,YES
+471,Deep learning methods to predict amyotrophic lateral sclerosis disease progression,YES
+472,Prediction of high infiltration levels in pituitary adenoma using MRI-based radiomics and machine learning,YES
+473,Decision Tree Algorithm for Diagnosis and Severity Analysis of COVID-19 at Outpatient Clinic,YES
+474,Real-Time and Web-Based Structural Damage Detection Network for Multiple Structures,YES
+475,Texture Analysis and Feature Extraction in Tumor Skin Cancer: Survey,YES
+476,Review on Lung Nodule Segmentation-Based Lung Cancer Classification Using Machine Learning Approaches,YES
+477,Development and validation of an abnormality-derived deep-learning diagnostic system for major respiratory diseases,YES
+478,Predicting genes associated with RNA methylation pathways using machine learning,YES
+479,Deep learning of ECG waveforms for diagnosis of heart failure with a reduced left ventricular ejection fraction,YES
+480,Qualitative Abnormalities of Peripheral Blood Smear Images Using Deep Learning Techniques,YES
+481,Pre-Trained Deep Neural Network-Based Computer-Aided Breast Tumor Diagnosis Using ROI Structures,YES
+482,A Novel Technique for Detecting Various Thyroid Diseases Using Deep Learning,YES
+483,Decision Support System for Fast Provision of Healthcare Facilities in Response to COVID-19 Pandemic Outbreak,YES
+484,Controlling of the Upper Limb Prosthesis Using Camera and Artificial Neural Networks,YES
+485,Effect of Different Doses of Vitamin C Supplementation on Health and Performance of Badminton Players Based on Machine Learning,YES
+486,Construction and validation of immune-related LncRNAs classifier to predict prognosis and immunotherapy response in laryngeal squamous cell carcinoma,YES
+487,Machine learning and bioinformatics approaches for classification and clinical detection of bevacizumab responsive glioblastoma subtypes based on miRNA expression,YES
+488,Application of artificial intelligence in cataract management: current and future directions,YES
+489,Machine learning to predict end stage kidney disease in chronic kidney disease,YES
+490,A deep learning model and human-machine fusion for prediction of EBV-associated gastric cancer from histopathology,YES
+491,Machine-learning algorithms based on personalized pathways for a novel predictive model for the diagnosis of hepatocellular carcinoma,YES
+492,A novel machine learning model to predict respiratory failure and invasive mechanical ventilation in critically ill patients suffering from COVID-19,YES
+493,Rapid species identification of pathogenic bacteria from a minute quantity exploiting three-dimensional quantitative phase imaging and artificial neural network,YES
+494,Prediction of 3-year risk of diabetic kidney disease using machine learning based on electronic medical records,YES
+495,Prognosis patients with COVID-19 using deep learning,YES
+496,Predicting the number of COVID-19 infections and deaths in USA,YES
+497,Artificial Intelligence in Infection Management in the ICU,YES
+498,Comparative performance of fully-automated and semi-automated artificial intelligence methods for the detection of clinically significant prostate cancer on MRI: a systematic review,YES
+499,How to Improve the Teaching of Computational Machine Learning Applied to Large-Scale Data Science: The Case of Public Universities in Mexico,YES
+500,Accuracy and efficiency of automatic tooth segmentation in digital dental models using deep learning,YES
+501,Predicting persistent central serous chorioretinopathy using multiple optical coherence tomographic images by deep learning,YES
+502,Neural network-based clustering model of ischemic stroke patients with a maximally distinct distribution of 1-year vascular outcomes,YES
+503,Intermediate-risk pulmonary embolism: echocardiography predictors of clinical deterioration,YES
+504,Deep learning features encode interpretable morphologies within histological images,YES
+505,Deep-learning-based analysis of preoperative MRI predicts microvascular invasion and outcome in hepatocellular carcinoma,YES
+506,Study on image data cleaning method of early esophageal cancer based on VGG_NIN neural network,YES
+507,"Investigation of the Anticancer Potential of 2-alkoxycarbonylallyl Esters Against Metastatic Murine Breast Cancer Line 4T1 Targeting the EGFR: A Combined Molecular Docking, QSAR, and Machine Learning Approach",YES
+508,Time-resolved trajectory of glucose lowering medications and cardiovascular outcomes in type 2 diabetes: a recurrent neural network analysis,YES
+509,A lightweight hybrid deep learning system for cardiac valvular disease classification,YES
+510,A secondary EWMA-based dictionary learning algorithm for polynomial phase signal denoising,YES
+511,Non-linear machine learning models incorporating SNPs and PRS improve polygenic prediction in diverse human populations,YES
+512,Field validation of deep learning based Point-of-Care device for early detection of oral malignant and potentially malignant disorders,YES
+513,A machine learning framework supporting prospective clinical decisions applied to risk prediction in oncology,YES
+514,WACPN: A Neural Network for Pneumonia Diagnosis,YES
+515,Advanced deep learning approaches to predict supply chain risks under COVID-19 restrictions,YES
+516,Regularised Layerwise Weight Norm Based Skin Lesion Features Extraction and Classification,YES
+517,"Classification of cognitively normal controls, mild cognitive impairment and Alzheimer's disease using transfer learning approach",YES
+518,Characteristic patch-based deep and handcrafted feature learning for red lesion segmentation in fundus images,YES
+519,ALCNN: Attention based lightweight convolutional neural network for pneumothorax detection in chest X-rays,YES
+520,Segmentation of lung cancer-caused metastatic lesions in bone scan images using self-defined model with deep supervision,YES
+521,Application of artificial intelligence-based dual-modality analysis combining fundus photography and optical coherence tomography in diabetic retinopathy screening in a community hospital,YES
+522,Automated diagnosis and prognosis of COVID-19 pneumonia from initial ER chest X-rays using deep learning,YES
+523,Multi-task deep learning for glaucoma detection from color fundus images,YES
+524,Decision effect of a deep-learning model to assist a head computed tomography order for pediatric traumatic brain injury,YES
+525,Structure-based prediction of BRAF mutation classes using machine-learning approaches,YES
+526,Machine learning prediction of hematoma expansion in acute intracerebral hemorrhage,YES
+527,Cervical Cancer Detection Based on Novel Decision Tree Approach,YES
+528,Novel Contiguous Cross Propagation Neural Network Built CAD for Lung Cancer,YES
+529,Big Data Analytics with Optimal Deep Learning Model for Medical Image Classification,YES
+530,Identifying chemically similar multiphase nanoprecipitates in compositionally complex non-equilibrium oxides via machine learning,YES
+531,Machine learning to predict metabolic drug interactions related to cytochrome P450 isozymes,YES
+532,Machine learning-enabled cancer diagnostics with widefield polarimetric second-harmonic generation microscopy,YES
+533,"Identifying Potential Factors Associated with High HIV viral load in KwaZulu-Natal, South Africa using Multiple Correspondence Analysis and Random Forest Analysis",YES
+534,Does artificial intelligence aid in the detection of different types of breast cancer?,YES
+535,The development of an eye movement-based deep learning system for laparoscopic surgical skills assessment,YES
+536,Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome,YES
+537,"Astrocytoma, ependymoma, and oligodendroglioma classification with deep convolutional neural network",YES
+538,Pneumonia binary classification using multi-scale feature classification network on chest x-ray images,YES
+539,Brain tumor segmentation using double density dual tree complex wavelet transform combined with convolutional neural network and genetic algorithm,YES
+540,Applying machine learning and predictive modeling to retention and viral suppression in South African HIV treatment cohorts,YES
+541,A robust framework to investigate the reliability and stability of explainable artificial intelligence markers of Mild Cognitive Impairment and Alzheimer’s Disease,YES
+542,A review of deep learning applications in human genomics using next-generation sequencing data,YES
+543,Deep learning as a novel method for endoscopic diagnosis of chronic atrophic gastritis: a prospective nested case–control study,YES
+544,The efficacy of deep learning models in the diagnosis of endometrial cancer using MRI: a comparison with radiologists,YES
+545,Application of machine learning methods for predicting infant mortality in Rwanda: analysis of Rwanda demographic health survey 2014–15 dataset,YES
+546,Machine Learning and IoT-Based Automatic Health Monitoring System,YES
+547,Prediction and analysis of COVID-19 daily new cases and cumulative cases: times series forecasting and machine learning models,YES
+548,Deep transfer learning to quantify pleural effusion severity in chest X-rays,YES
+549,Deep learning of chest X-rays can predict mechanical ventilation outcome in ICU-admitted COVID-19 patients,YES
+550,Machine learning models for prediction of adverse events after percutaneous coronary intervention,YES
+551,Functional characterization of variants of unknown significance in a spinocerebellar ataxia patient using an unsupervised machine learning pipeline,YES
+552,Deep learning model for tongue cancer diagnosis using endoscopic images,YES
+553,Artificial intelligence significantly improves the diagnostic accuracy of deep myxoid soft tissue lesions in histology,YES
+554,A machine learning algorithm for electrocardiographic fQRS quantification validated on multi-center data,YES
+555,Building a model for predicting metabolic syndrome using artificial intelligence based on an investigation of whole-genome sequencing,YES
