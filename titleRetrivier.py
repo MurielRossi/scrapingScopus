@@ -21,7 +21,6 @@ while 1:
     for x in data2:
         lista.append({
             "TITLE": x['dc:title'],
-            #"ID": x[]
             "ACCEPTED": "NO"
         })
 
