@@ -88,3 +88,18 @@ def lemmatizer(x):  # funzione per la lemmatizzazione delle parole
 
     return " ".join(w)
 
+
+def exclude_not_english(x):  # elimina le parole che non sono in inglese
+    return " ".join(w for w in took.tokenize(x) if w in words.words())
+
+
+def remove_single_letters(text):
+    line = took.tokenize(text)
+    i = 0
+    for word in line:
+        if len(word) == 1:
+            line.pop(i)
+        else:
+            i += 1
+
+    return " ".join(line)

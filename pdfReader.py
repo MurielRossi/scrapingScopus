@@ -1,4 +1,5 @@
 import glob
+import time
 from io import StringIO
 
 import pandas as pd
@@ -34,16 +35,19 @@ for x in array_path:
 ciao = pd.DataFrame(array)
 print(ciao)
 ciao.to_csv('/home/muriel/PycharmProjects/pythonProject1/pdfToCSV/myPDF.csv', sep=',')
-
-
-ciao[1] = ciao[1]\
+start = time.time()
+ciao[0] = ciao[0] \
     .apply(cleanFun.lower_converter) \
     .apply(cleanFun.break_remover) \
     .apply(cleanFun.punt_remover) \
-    .apply(cleanFun.href_remover)\
-    .apply(cleanFun.http_remover)\
+    .apply(cleanFun.href_remover) \
+    .apply(cleanFun.http_remover) \
     .apply(cleanFun.spaces_remover) \
-    .apply(cleanFun.correct_words)\
-    .apply(cleanFun.stopwords_remover)\
+    .apply(cleanFun.stopwords_remover) \
     .apply(cleanFun.lemmatizer) \
-    .apply(cleanFun.word_correction)
+    .apply(cleanFun.exclude_not_english)
+# .apply(cleanFun.word_correction)
+# .apply(cleanFun.correct_words)\
+end = time.time()
+print(end - start)
+ciao.to_csv('/home/muriel/PycharmProjects/pythonProject1/pdfToCSV/myPDFCleaned.csv', sep=',')
