@@ -4,7 +4,6 @@ import uuid
 
 from selenium import webdriver
 
-
 class WebDriverWrapper:
     def __init__(self, download_location=None):
         chrome_options = webdriver.ChromeOptions()

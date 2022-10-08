@@ -55,12 +55,12 @@ def open_scopus():
 def login():
     email_field = WebDriverWait(browser, 15).until(
         EC.presence_of_element_located((By.ID, "bdd-email")))
-    email_field.send_keys("m.rossi67@studenti.unisa.it")
+    email_field.send_keys("my-email")
     continue_button = browser.find_element(By.ID, "bdd-elsPrimaryBtn")
     continue_button.click()
     pass_field = WebDriverWait(browser, 15).until(
         EC.presence_of_element_located((By.ID, "bdd-password")))
-    pass_field.send_keys("Arcobalenica1!")
+    pass_field.send_keys("my-password")
     login_button = browser.find_element(By.ID, "bdd-elsPrimaryBtn")
     login_button.click()
 
