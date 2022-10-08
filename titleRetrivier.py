@@ -2,9 +2,14 @@ import requests
 import pandas as pd
 
 
-q = "  ( ( ( medic*  OR  healthcare OR bioinformatic)  AND  ( ( artificial  AND intelligence )  OR  ( machine  AND learning ) ) ) )  AND  ( LIMIT-TO ( LANGUAGE ,  \"English\" ) AND ( LIMIT-TO ( SUBJAREA ,  \"MEDI\" ) ) AND ( LIMIT-TO ( SUBJAREA ,  \"BIOC\" ) ) AND ( LIMIT-TO ( SUBJAREA ,  \"COMP\" ) ) AND (  LIMIT-TO ( OA ,  \"all\" ) ) AND (EXCLUDE (DOCTYPE, \"cr\") ) AND (EXCLUDE (DOCTYPE, \"no\") ) AND (EXCLUDE (DOCTYPE, \"le\") ) AND (EXCLUDE (DOCTYPE, \"bk\") ) AND (EXCLUDE (DOCTYPE, \"sh\") ) )"
+q = "  ( ( ( medic*  OR  healthcare OR bioinformatic)  AND  " \
+    "( ( artificial  AND intelligence )  OR  ( machine  AND learning ) ) ) )  " \
+    "AND  ( LIMIT-TO ( LANGUAGE ,  \"English\" ) AND ( LIMIT-TO ( SUBJAREA ,  \"MEDI\" ) ) " \
+    "AND ( LIMIT-TO ( SUBJAREA ,  \"BIOC\" ) ) AND ( LIMIT-TO ( SUBJAREA ,  \"COMP\" ) ) " \
+    "AND (  LIMIT-TO ( OA ,  \"all\" ) ) AND (EXCLUDE (DOCTYPE, \"cr\") ) AND (EXCLUDE (DOCTYPE, \"no\") ) " \
+    "AND (EXCLUDE (DOCTYPE, \"le\") ) AND (EXCLUDE (DOCTYPE, \"bk\") ) AND (EXCLUDE (DOCTYPE, \"sh\") ) )"
 
-apiKey = "b5db21fc04c6e10115d06180701edcf5"
+apiKey = "myApyKey"
 url = "https://api.elsevier.com/content/search/scopus"
 i = 0
 a = 0
