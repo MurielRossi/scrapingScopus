@@ -1,0 +1,328 @@
+,TITLE, MODE_OF_USE, APPLICATION
+1,A Bayesian framework to integrate multi‐level genome‐scale data for Autism risk gene prioritization,  a Bayesian model selection framework, probabilisti-
+cally prioritize ASD risk genes through explicitly integrating evidence from sequenc-
+ing-identifed ASD genes, biological annotations, and gene functional network,
+2, A deep convolutional neural
+network for Kawasaki disease
+diagnosis, deep
+convolutional neural network, diferentiate photographs of Kawasaky Desease clinical signs from those of
+other pediatric illnesses,
+3, A deep learning based method
+for intelligent detection
+of seafarers’ mental health
+condition, natural language processing, using hybrid scoring mechanism to obtain semantic and emotion matching values
+and assist the seafarer mental health scale to obtain the fnal correction score.
+4,A machine learning COVID‐19 mass
+screening based on symptoms
+and a simple olfactory test, a classifcation tree model, has been used to predict whether or not a person has COVID-19 based on symptoms and a simple olfactory test.
+5, A noninvasive artifcial neural
+network model to predict IgA
+nephropathy risk in Chinese
+population, logistic modeling and artificial neural networks, predict the risk probability of IgAN by analyzing routine and serological parameters,
+6,  A perspective on the diagnosis of cracked
+tooth: imaging modalities evolve to AI‐based
+analysis, image classification, object detection, and semantic segmentation, detect and classify cracks in teeth,
+7, A reimbursement framework for artificial intelligence in
+healthcare, use of autonomous AI systems, which are systems that can operate independently to make decisions or carry out tasks, improve clinical outcomes for patients and populations, improve access, remove disparities, and reduce cost,
+8, A tool for predicting overall survival
+in patients with Ewing sarcoma: a multicenter
+retrospective study, cox regression analysis, Nomogram,  predict 1- and 3-year survival in ES patients,
+9, Advancing artifcial intelligence-assisted
+pre-screening for fragile X syndrome, A supervised random forest classifier, create an AI-assisted pre-screening tool to identify cases with FXS,
+10, Age estimation from sleep studies using deep learning predicts
+life expectancy, Deep neural networks , estimate age and mortality risk through polysomnograms,
+11, Age group prediction
+with panoramic radiomorphometric
+parameters using machine learning
+algorithms,  linear discriminant analysis, logistic regression, kernelized support vector machines, multilayer perceptron, and extreme gradient boosting, estimate the age group of people with permanent dentition in a non-invasive, comprehensive, and accurate manner using five machine learning algorithms,
+12, AIMP2-DX2 provides therapeutic interface to
+control KRAS-driven tumorigenesis, natural language processing, machine learning, and deep learning, automatically extract information from the text, such as the cancer type, the gene involved, and the potential treatment
+13, Aligning mission to digital health strategy in academic medical
+centers, machine learning, natural language processing, and predictive analytics, help identify relevant passages of text, to generate summaries of text, and to make predictions about future events,
+14, Artificial intelligence in cancer target identification and drug
+discovery, Network-based and machine learning, identify novel anticancer targets and discover drugs,
+15, Artifcial intelligence to diferentiate asthma
+from COPD in medico-administrative databases, multinomial regression, gradient boosting, and recurrent neural networks, distinguish between asthma, ACO and COPD in medico-administrative databases where the clinical diagnosis is absent,
+16, Automated estimation of cancer
+cell deformability with machine
+learning and acoustic trapping, neural networks,  automatically measuring non-linear elastic moduli of live cells.,
+17,Automated extraction of information of lung
+cancer staging from unstructured reports
+of PET-CT interpretation: natural language
+processing with deep-learning, deep-learning and Neural Network, extract primary lung cancer sites and metastatic lymph nodes and distant metastasis information from PET-CT reports for determining lung cancer stages,
+18, Automated identifcation of hip
+arthroplasty implants using
+artifcial intelligence, neural networks, detect and identify specifc hip arthroplasty models,
+19, Automated medical chart review for breast
+cancer outcomes research: a novel natural
+language processing extraction system, natural language processing and transfer learning., accepts scanned images of operative and pathology reports,
+20, Automated Skin Lesion Diagnosis and Classification Using Learning Algorithms, Deep learning, Artificial intelligence has been used in this text to diagnose skin cancer at an earlier stage,
+21, Automated vetting of radiology referrals:
+exploring natural language processing
+and traditional machine learning approaches, natural language processing and traditional machine learning techniques, predict the justification of brain CT referrals,
+22, Automatic lung segmentation
+in chest X‐ray images using
+improved U‐Net, U-Net network, automatically segment the lung region for chest X-ray (CXR) images,
+23, Bayesian variable selection and survival
+modeling: assessing the Most important
+comorbidities that impact lung and
+colorectal cancer survival in Spain, Bayesian variable selection and survival
+modeling, dentify the comorbidities that predict overall survival,
+24, Binary dose level classifcation
+of tumour microvascular response
+to radiotherapy using artifcial
+intelligence analysis of optical
+coherence tomography images, classification, classify radiation dose levels at multiple timepoints following irradiation,
+25, Breast cancer patient
+characterisation and visualisation
+using deep learning and fsher
+information networks, Deep learning,  breast cancer detection and classification.,
+26, Bridging the resources gap: deep learning
+for fuorescein angiography and optical
+coherence tomography macular thickness map
+image translation,  pix2pix generative adversarial network, synthesize clinically useful optical coherence tomography ,
+27, CancerNet: a unifed deep learning network
+for pan‐cancer diagnostics, machine learning,  design a novel framework for cancer diagnostics,
+28, Classifcation of facial paralysis based
+on machine learning techniques, machine learning, o classify seven Facial Paralisis categories,
+29, Classifcation of pleural efusions
+using deep learning visual models:
+contrastive‐loss, deep learning models and contrastive-loss, classify the etiology of pleural effusion,
+30, Clinical analysis and artifcial intelligence
+survival prediction of serous ovarian cancer
+based on preoperative circulating leukocytes, decision tree for machine learning, predict the survival of patients with serous ovarian cancer,
+31, Clinical evaluation of deep learning–
+based clinical target volume three-channel
+auto-segmentation algorithm for adaptive
+radiotherapy in cervical cancer, deep learning , auto-segmentation of cervical cancer.,
+32, Considerations for artifcial intelligence
+clinical impact in oncologic imaging: an AI4HI
+position paper, machine learning and imagin recognition, development of decision-support tools for cancer imaging,
+33, Construction of machine learning tools
+to predict threatened miscarriage in the frst
+trimester based on AEA, progesterone
+and β-hCG in China: a multicentre,
+observational, case-control study, predictive machine learning models, predict threatened miscarriage risk,
+34,Convolutional neural network-based system
+for endocytoscopic diagnosis of early gastric
+cancer, neural network, to get early gastric cancer (EGC) diagnosis,
+35, Cross-Platform Omics Prediction procedure: a statistical
+machine learning framework for wider implementation of
+precision medicine, penalised regression model, predict patient outcomes,
+36, Deep convolutional neural
+network‐based skeletal
+classifcation of cephalometric
+image compared
+with automated‐tracing software, neural networks, classifying sagittal skeletal relationships,
+37, Deep learning accurately classifes
+elbow joint efusion in adult
+and pediatric radiographs,  Deep learning, classify elbow joint efusion in pediatric and adult radiographs,
+38, Deep learning algorithm to evaluate cervical
+spondylotic myelopathy using lateral cervical
+spine radiograph, deep learning and convolutional neural networks, evelop a convolutional neural network for detecting cervical spondylotic myelopathy.,
+39, Deep learning from phylogenies to uncover the
+epidemiological dynamics of outbreaks, Deep learning, likelihood-free, simulation-based approach for phylodynamics,
+40, Deep Learning Prediction Model for Heart Disease for Elderly Patients, deep learning, detection of heart disease,
+41, Deep learning supports
+the diferentiation of alcoholic
+and other‐than‐alcoholic cirrhosis
+based on MRI, Deep learning and convolutional neural networks, develop a classifier that can discriminate between alcoholic and non-alcoholic cirrhosis etiology based on standard MRI,
+42, Deep learning-based automated
+segmentation of eight brain anatomical regions
+using head CT images in PET/CT, convolutional neural networks ,  automated segmentation of eight brain anatomical regions on head CT imaging in PET/CT,
+43, Detecting 17 fne‐grained dental
+anomalies from panoramic dental
+radiography using artifcial
+intelligence, computer vision, build a model to detect 17 fine-grained dental anomalies,
+44, Determining the origin
+of diferent variants associated
+with familial mediterranean fever
+by machine‐learning, machine learning and predictive modeling.,  predict the Mediterranean fever gene (MEFV) variant most likely to be found for an individual FMF patient,
+45, Developing an artifcial intelligence
+method for screening hepatotoxic compounds
+in traditional Chinese medicine and Western
+medicine combination, machine learning and deep learning, screening hepatotoxic compounds in TCM-WMC based on chemical structures.,
+46, Development and evaluation of uncertainty
+quantifying machine learning models to predict
+piperacillin plasma concentrations in critically ill
+patients, CatBoost and Gaussian processes., prediction of piperacillin plasma concentrations,
+47, Development and external validation
+of a novel nomogram for predicting
+cancer-specifc survival in patients
+with ascending colon adenocarcinoma
+after surgery: a population-based study, univariate and multivariate Cox analyses, predict the cancer-specific survival (CSS) of patients with ascending colon adenocarcinoma after surgery.,
+48, Development of a deep learning
+model that predicts Bi‐level
+positive airway pressure failure, logistic regression and deep learning., predction of a  Bi-Level Positive Airway Pressure (BIPAP) failure.,
+49, Development of a machine learning model
+to predict mild cognitive impairment using
+natural language processing in the absence
+of screening, natural language processing and machine learning, dentifcation of MCI from clinical text in the absence of screening or other structured diagnostic information,
+50, Development of deep learning
+chest X‐ray model for cardiac dose
+prediction in left‐sided breast
+cancer radiotherapy, neural network-based regression model ,predict the mean heart dose (∆MHD) reduction between free-breathing (MHDFB) and DIBH.,
+51, Early Detection of Heartbeat from Multimodal Data Using RPA Learning with KDNN-SAE, tional Neural Network, detect heartbeats and to estimate life threatening conditions earlier without any error in classification of heart beat.,
+52, Early Skin Disease Identification Using Deep Neural Network, Deep Neural Network, Early Skin Disease Identification,
+53, Efficient Grad-Cam-Based Model for COVID-19 Classification and Detection, pre-trained models like ResNet50, VGG-16, and VGG19, detection of COVID-19 using X-ray and CT-Scan images,
+54, End-users feedback and perceptions
+associated with the implementation
+of a clinical-rule based Check of Medication
+Appropriateness service, thematic analysis., analyse the feedback from physicians and pharmacists on the CMA service.,
+55, Examining the COVID‐19 case
+growth rate due to visitor vs. local
+mobility in the United States using
+machine learning, machine learning and statistical modeling., model the future number of cases of COVID-19 using various machine learning models.,
+56, Exploring deep learning methods
+for recognizing rare diseases and their clinical
+manifestations from texts, several deep learning, recognize rare diseases and their clinical manifestations (signs and symptoms).,
+57, Fast intraoperative histology‐based
+diagnosis of gliomas with third
+harmonic generation microscopy
+and deep learning, classifcation network and image analisys, automated glioma image analysis, matching video-rate image acquisition
+58, Feasibility of anomaly score detected with deep learning
+in irradiated breast cancer patients with reconstruction,  generative adversarial network (GAN) deep learning algorithm and linear mixed effect model., evaluate cosmetic outcomes of the reconstructed breast in breast cancer patients,
+59, Hemorrhage semantic segmentation
+in fundus images for the diagnosis of diabetic
+retinopathy by using a convolutional neural
+network, neural network,  automated identification of retinal hemorrhages in fundus images.,
+60, High‐dimensional multinomial
+multiclass severity scoring
+of COVID‐19 pneumonia using CT
+radiomics features and machine
+learning algorithms, random forest (BRF) and multivariate adaptive regression splines (MARS)., classificating patient in base of the severity of pneumonia,
+61, Deep Learning Prediction Model for Heart Disease for Elderly Patients, deep learning and neural networks.
+, early  diagnosis of heart disease.,
+62, Deep learning supports
+the diferentiation of alcoholic
+and other‐than‐alcoholic cirrhosis
+based on MRI, deep learning (DL),  imaging-based differentiation of the etiology of liver cirrhosis.,
+63, Deep learning-based automated
+segmentation of eight brain anatomical regions
+using head CT images in PET/CT, neural networks (CNNs) and BrainSuite13., automatically segment eight brain anatomical regions on head CT imaging in PET/CT.
+,
+64, Detecting 17 fne‐grained dental
+anomalies from panoramic dental
+radiography using artifcial
+intelligence, artificial intelligence-based computer vision techniques.,  detect 17 fine-grained dental anomalies which are critical to patients’ dental health and quality of life.,
+65, A benchmark study of deep learning‐based
+multi‐omics data fusion methods for cancer, Deep learning ,  fuse multi-omics data generated from a large number of samples.,
+66, A comparison of deep learning
+U‐Net architectures for posterior
+segment OCT retinal layer
+segmentation, deep learning and semantic segmentation.
+, enable a fast, accurate and automated approach for retinal layer segmentation in posterior segment OCT images.,
+67, A deep learning approach identifes new
+ECG features in congenital long QT syndrome, deep learning, automatic diagnose long QT syndrome (LQTS).,
+68, A deep learning MRI approach outperforms
+other biomarkers of prodromal Alzheimer’s
+disease, Deep learning, distinguish between controls and Alzheimer's patients,
+69, A deep learning-based self-adapting
+ensemble method for segmentation
+in gynecological brachytherapy, deep convolutional neural
+
+network based on U-Net, segment the bladder rectum and HRCTV on CT images in gynecological cancer. ,
+70, A hands‐free stool sampling system
+for monitoring intestinal health
+and disease, natural language processing machine learning and deep learning., improve the quality of healthcare by facilitating increased adherence to routine stool monitoring.,
+71, A multitask deep learning approach
+for pulmonary embolism detection
+and identifcation, Deep learning , enhance the radiologists’workfow by identifying PE using CTPA.,
+72, A novel approach to predicting the synergy
+of anti‐cancer drug combinations using
+document‐based feature extraction, deep learning and machine learning, prediction of anti-cancer drug combination synergy.
+,
+73, A prediction model for worsening diabetic
+retinopathy after panretinal photocoagulation, multivariate logistic regression,  screen potential risk factors for DR-worsening in the training cohort,
+74, A warning system for urolithiasis
+via retrograde intrarenal surgery using machine
+learning: an experimental study, random forest classification algorithm, prevent or minimize laser exposure resulting in kidney and ureter damage during retrograde intrarenal surgery (RIRS) for urolithiasis,
+75, An artifcial intelligence algorithm
+is highly accurate for detecting
+endoscopic features of eosinophilic
+esophagitis, classifcation,  detecting and quantifying endoscopic features of EoE,
+76, An interpretable machine learning
+approach to identify mechanism
+of action of antibiotics, machine learning, predict bioactivity of small molecules and their mechanism of action.,
+77, An ML prediction model
+based on clinical parameters
+and automated CT scan features
+for COVID‐19 patients, machine learning , predicting the need for invasive mechanical ventilation in patients with COVID-19.,
+78, An updated systematic review of radiomics
+in osteosarcoma: utilizing CLAIM to adapt
+the increasing trend of deep learning
+application in radiomics, Artifcial Intelligence in Medical Imaging , assess the quality of radiomics studies in osteosarcoma.
+,
+79, Artificial neural networks enable genome-scale
+simulations of intracellular signaling, neural network,  predict cellular responses in health and disease.,
+80, Assessing preoperative risk of STR
+in skull meningiomas using MR
+radiomics and machine learning, machine learning ,  predict the gross total and subtotal resections of skull meningiomas from pre-treatment T1 post contrast MR-images.
+,
+81, Assessment of blood perfusion
+quality in laparoscopic colorectal
+surgery by means of Machine
+Learning,  neural network,  automatically assess blood perfusion quality of the intestinal sector in laparoscopic colorectal surgery.,
+82, Assessment of deep learning and transfer
+learning for cancer prediction based on gene
+expression data,  Neural networks and transfer learning.
+, predict cancer based on gene expression data.,
+83, Assessment of right ventricular size
+and function from cardiovascular magnetic
+resonance images using artifcial intelligence, deep learning,  automated quantification of right ventricular ejection fraction from cardiovascular magnetic resonance images.,
+84, Assessment of the predictive
+potential of cognitive scores
+from retinal images and retinal
+fundus metadata via deep learning
+using the CLSA database, Deep learning, to predict cognitive scores from the Canadian Longitudinal Study on Aging (CLSA) database.,
+85, Automated diagnosing primary
+open‐angle glaucoma from fundus
+image by simulating human’s
+grading with deep learning, deep learning,  develop a robust and explainable algorithm to automatically facilitate the downstream diagnostic tasks related to POAG.,
+86, Automated gathering
+of real‐world data from online
+patient forums can complement
+pharmacovigilance for rare cancers, machine learning,  automatically extract and aggregate side effects from messages on open online discussion forums.,
+87, Automated histological
+classifcation for digital pathology
+images of colonoscopy specimen
+via deep learning, Deep learning, classify digital pathology images of colon lesions.,
+88, Automated image curation
+in diabetic retinopathy screening
+using deep learning,  Deep learning and image evaluation, automated curation of diabetic retinopathy (DR) screening images.,
+89, Automated model-predictive design of syn-
+thetic promoters to control transcriptional
+
+profiles in bacteria, machine learning, predicts site-specific transcription initiation rates for any σ70 promoter sequence.,
+90, Automatic data extraction to support
+meta-analysis statistical analysis: a case study
+on breast cancer, entity recognition and statistical analysis., automatically extract data from research abstracts and perform statistical analysis.,
+91, Bayesian networks elucidate complex genomic
+landscapes in cancer, : Bayesian networks ,  understand complex relations between a number of variables in biological settings and can provide a guiding, graphical tool in exploring such relations.,
+92, BeCaked: An Explainable Artifcial
+Intelligence Model for COVID‐19
+Forecasting,  deep learning models and variational autoencoders.,  forecasting the future trend of the coronavirus pandemic.,
+93, Bioinformatics analysis reveals immune
+prognostic markers for overall survival
+of colorectal cancer patients: a novel machine
+learning survival predictive system,  machine learning algorithms., a predictive system for colorectal cancer.,
+94, Cancer-Net SCa: tailored deep neural
+network designs for detection of skin cancer
+from dermoscopy images, deep learning, skin cancer detection.,
+95, Classifcation of mastoid air cells by CT scan
+images using deep learning method, convolutional neural network (CNN) model, classify mastoid abnormalities.,
+96, Classifcation of Parkinson’s disease
+and its stages using machine
+learning, machine learning (ML) classification, ssess the benefits and relevance of neurocognitive features both tablet-based assessments and self-reported metrics as they relate to Parkinson’s Disease (PD) and its stages.,
+97, Clinical predictors of response
+to methotrexate in patients with rheumatoid
+arthritis: a machine learning approach using
+clinical trial data, random forests., identify clinical predictors of response to methotrexate in patients with rheumatoid arthritis (RA).,
+98, Clustering of countries according
+to the COVID-19 incidence and mortality rates,  K-means, identifying longitudinal patterns of change in quantitative COVID-19 incidence and mortality rates. ,
+99, Constrained Fourier estimation of short‐term
+time‐series gene expression data reduces noise
+and improves clustering and gene regulatory
+network predictions, nonlinear least-squares trust-region optimization technique, reduce the noise of short-term time-series expression data.,
+100, Controlling gene expression with deep
+generative design of regulatory DNA, generative adversarial networks (GANs) for deep learning.,  design regulatory DNA with prespecified target mRNA levels.,

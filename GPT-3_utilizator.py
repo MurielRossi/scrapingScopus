@@ -1,6 +1,5 @@
 import json
 
-import jsonlines as jsonlines
 import numpy
 import openai
 import pandas as pd
@@ -14,12 +13,11 @@ f = open('answerResponse/response.csv', 'w')
 writer = csv.writer(f)
 
 
-jsons = []
 df = pd.read_csv('/home/muriel/PycharmProjects/pythonProject1/pdfToCSV/myPDFCleaned.csv')
 
-openai.api_key_path='api_key'
+openai.api_key_path = 'api_key'
 
-index=0
+index = 0
 for i in df:
   text = df.loc[index].at["Content"]
   index = index + 1
