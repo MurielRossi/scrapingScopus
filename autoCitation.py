@@ -11,25 +11,51 @@ i = 0
 
 array_citazioni = []
 
-while i < 147:
-    try:
-        q = a.iloc[i]["TITLE"]
-        print(q)
-        params = {"query": q, "apiKey": apiKey, "start": 0, "count": 1}
-        r = requests.get(url=url, params=params)
-        data = r.json()
-        data2 = data['search-results']['entry'][0]['dc:creator']
-        print(data2)
-        data3 = data['search-results']['entry'][0]['prism:publicationName']
-        print(data3)
+def citazioniBibliometria():
+    while i < 147:
+        try:
+            q = a.iloc[i]["TITLE"]
+            print(q)
+            params = {"query": q, "apiKey": apiKey, "start": 0, "count": 1}
+            r = requests.get(url=url, params=params)
+            data = r.json()
+            data2 = data['search-results']['entry'][0]['dc:creator']
+            print(data2)
+            data3 = data['search-results']['entry'][0]['prism:publicationName']
+            print(data3)
 
-        i = i + 1
-        citazione = "\n@book{Scopus \n title={" + a.iloc[i]["TITLE"] +" } \n author={"+data2+" } \n journal={"+data3+"} \n publisher={} \n }\n"
-        array_citazioni.append(citazione)
-    finally:
-        i = i + 1
-        continue
-file = open("fileCitazioni1.txt", "w")
+            i = i + 1
+            citazione = "\n@book{Scopus-"+data2+", \n title={" + a.iloc[i]["TITLE"] +" }, \n author={"+data2+" }, \n journal={"+data3+"}, \n publisher={} \n }\n"
+            array_citazioni.append(citazione)
+        finally:
+            i = i + 1
+            continue
+
+def citazioniNelTesto():
+    i = 0
+    while i < 147:
+        try:
+            q = a.iloc[i]["TITLE"]
+            print(q)
+            params = {"query": q, "apiKey": apiKey, "start": 0, "count": 1}
+            r = requests.get(url=url, params=params)
+            data = r.json()
+            data2 = data['search-results']['entry'][0]['dc:creator']
+            print(data2)
+            data3 = data['search-results']['entry'][0]['prism:publicationName']
+            print(data3)
+
+            i = i + 1
+            citazione = "\\cite{Scopus-" + data2 + "}\t"
+
+            array_citazioni.append(citazione)
+        finally:
+            i = i + 1
+            continue
+
+citazioniNelTesto()
+
+file = open("fileCitazioniSuTesto.txt", "w")
 
 for x in array_citazioni:
     file.write(x)
