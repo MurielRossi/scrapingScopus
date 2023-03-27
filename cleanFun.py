@@ -4,7 +4,7 @@ import re
 import pkg_resources
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import words
-from symspellpy import SymSpell
+ #from symspellpy import SymSpell
 
 nltk.download("stopwords")
 nltk.download('omw-1.4')
@@ -60,20 +60,20 @@ def correct_words(text):
     return " ".join(line)
 
 
-def word_correction(text):
-    line = took.tokenize(text)
-    for i in range(len(line)):
-        # print("correggendo", line[i])
-        sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
-        dictionary_path = pkg_resources.resource_filename(
-            "symspellpy", "frequency_dictionary_en_82_765.txt"
-        )
-        sym_spell.load_dictionary(dictionary_path, term_index=0, count_index=1)
-        suggestions = sym_spell.lookup_compound(line[i], max_edit_distance=2, ignore_non_words=True)
-        line[i] = suggestions[0].term  # Prendiamo la prima/e che troviamo tra quelle con distanza minima
-        # print("corretta", line[i])
-    print(line)
-    return " ".join(line)
+#                            def word_correction(text):
+ #                               line = took.tokenize(text)
+  #                              for i in range(len(line)):
+   #                                 # print("correggendo", line[i])
+    #                                sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
+     #                               dictionary_path = pkg_resources.resource_filename(
+      #                                  "symspellpy", "frequency_dictionary_en_82_765.txt"
+       #                             )
+        #                            sym_spell.load_dictionary(dictionary_path, term_index=0, count_index=1)
+         #                           suggestions = sym_spell.lookup_compound(line[i], max_edit_distance=2, ignore_non_words=True)
+          #                          line[i] = suggestions[0].term  # Prendiamo la prima/e che troviamo tra quelle con distanza minima
+           #                         # print("corretta", line[i])
+            #                    print(line)
+             #                   return " ".join(line)
 
 
 def stopwords_remover(x):  # funzione per la rimozione delle stopwords
